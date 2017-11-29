@@ -23,5 +23,5 @@ public class AliveTest {
     public void hasHerokuapp() {
         assertTrue(AliveApplication.herokuUrl().contains("herokuapp.com"));
     }
-
+// testi
 }
